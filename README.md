@@ -1,2 +1,2 @@
-# voyager
+# Voyager
 Reimagining travel with LLMs
